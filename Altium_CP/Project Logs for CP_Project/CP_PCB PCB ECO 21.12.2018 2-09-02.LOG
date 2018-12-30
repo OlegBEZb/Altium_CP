@@ -1,0 +1,3 @@
+Change Component Comment : Designator=X3 Old Comment=UART_2 New Comment=UART
+Added Pin To Net: NetName=NetC3_1 Pin=X3-5
+Added Room: Name=CP_Scheme

@@ -1,0 +1,10 @@
+Added Component: Designator=DA2(SOT95P237X112-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Item ID"; Value = "LM3940"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC6_1 Pin=DA2-1
+Added Pin To Net: NetName=GND Pin=DA2-2
+Added Pin To Net: NetName=NetC8_1 Pin=DA2-3
+Added Member To Class: ClassName=CP_Scheme Member=Component C4 Capacitor
+Added Member To Class: ClassName=CP_Scheme Member=Component C5 Capacitor-E
+Added Member To Class: ClassName=CP_Scheme Member=Component DA2 LM3940
+Added Member To Class: ClassName=CP_Scheme Member=Component R7 Resistor_10,0W

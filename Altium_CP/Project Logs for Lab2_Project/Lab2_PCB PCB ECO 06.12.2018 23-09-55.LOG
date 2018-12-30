@@ -1,0 +1,114 @@
+Removed Pin From Net: NetName=5-9 В Pin=DA?-6
+Removed Pin From Net: NetName=5-9 В Pin=R?-1
+Removed Pin From Net: NetName=5-9 В Pin=R?-1
+Change Component Comment : Designator=C1 Old Comment=Capacitor New Comment=Capacitor-E
+Change Component Designator: OldDesignator=DA? NewDesignator=DA1
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change component parameters: Designator = "FU1"; Footprint = "F1812"; UniqueID = "\MJUDYEOW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Type"; Value = "Вставка плавкая"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.5A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1"; Footprint = "КИВ-18"; UniqueID = "\LSBBWSYA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Application Category"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance"; Value = "1.2ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ОАО "МСТАТОР""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "КИВ18-100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "20.05.2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Q"; Value = "20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "185mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "КВШУ.670114.001 ТУ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Дроссель"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "40мк"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Working Temperature Max"; Value = "+85°С"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Working Temperature Min"; Value = "-60°С"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; UniqueID = "\BFIQQTKQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13к"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "R0805"; UniqueID = "\RMWWROWE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1.5к"; VariantName = "[No Variations]"
+Change component parameters: Designator = "HL1"; Footprint = "LD0805"; UniqueID = "\VWCQFWLA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Published"; Value = "03.12.2013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Индикатор единичный"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Произв. номер"; Value = "SMLE13EC8TT86"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Прямое напряжение"; Value = "3В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Прямой ток"; Value = "0.5А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Цвет"; Value = "Синий"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "R0805"; UniqueID = "\EQCUVJXH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Сопротивление"; Value = "180"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1"; UniqueID = "\HPKMIXQQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Published"; Value = "20.08.2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Олег Литвинов"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ёмкость"; Value = "100мк"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Напряжение"; Value = "50В"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; UniqueID = "\VOVHGVEX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ёмкость"; Value = "239"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Напряжение"; Value = "50В"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Published"; Value = "20.08.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Олег Литвинов"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ёмкость"; Value = "100мк"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "50В"; VariantName = "[No Variations]"
+Added Component: Designator=VD1(DO-214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "Диод"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Максимальное обратное напряжение"; Value = "40В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Прямой ток"; Value = "1 А"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5-9 В Pin=FU1-2
+Change Net Name : Old Net Name=NetDA?_7 New Net Name=NetDA1_7
+Change Net Name : Old Net Name=NetDA?_8 New Net Name=NetDA1_8
+Added Pin To Net: NetName=12 В Pin=C3-1
+Added Pin To Net: NetName=12 В Pin=R4-2
+Added Pin To Net: NetName=12 В Pin=VD1-2
+Added Net: Name=12 В
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=DA1-2
+Added Pin To Net: NetName=GND Pin=DA1-4
+Added Pin To Net: NetName=GND Pin=HL1-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=DA1-6
+Added Pin To Net: NetName=NetC1_1 Pin=FU1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R1-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=DA1-3
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetDA1_1 Pin=DA1-1
+Added Pin To Net: NetName=NetDA1_1 Pin=L1-2
+Added Pin To Net: NetName=NetDA1_1 Pin=VD1-1
+Added Net: Name=NetDA1_1
+Added Pin To Net: NetName=NetDA1_5 Pin=DA1-5
+Added Pin To Net: NetName=NetDA1_5 Pin=R3-2
+Added Pin To Net: NetName=NetDA1_5 Pin=R4-1
+Added Net: Name=NetDA1_5
+Added Pin To Net: NetName=NetHL1_1 Pin=HL1-1
+Added Net: Name=NetHL1_1
+Added Member To Class: ClassName=Lab2_Scheme Member=Component C3 Capacitor-E
+Added Member To Class: ClassName=Lab2_Scheme Member=Component R3 Resistor_0,25W
+Added Member To Class: ClassName=Lab2_Scheme Member=Component VD1 Schottky

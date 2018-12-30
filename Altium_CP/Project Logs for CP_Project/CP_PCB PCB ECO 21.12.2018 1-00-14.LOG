@@ -1,0 +1,9 @@
+Added Component: Designator=R4(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3к"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDA1_5 Pin=R4-1
+Added Pin To Net: NetName=NetC5_1 Pin=R4-2
+Added Member To Class: ClassName=CP_Scheme Member=Component L1 Coil
+Added Member To Class: ClassName=CP_Scheme Member=Component R4 Resistor_0,25W
+Added Room: Name=CP_Scheme

@@ -1,0 +1,19 @@
+Added Component: Designator=DD1(SOIC127P1030X265-20N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Create"; Value = "Litvinov"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WTF"; Value = "RTX"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC6_1 Pin=DD1-1
+Added Pin To Net: NetName=NetC1_2 Pin=DD1-2
+Added Pin To Net: NetName=NetDD1_4 Pin=DD1-4
+Added Pin To Net: NetName=NetDD1_5 Pin=DD1-5
+Added Pin To Net: NetName=NetDD1_6 Pin=DD1-6
+Added Pin To Net: NetName=NetDD1_10 Pin=DD1-10
+Added Pin To Net: NetName=NetDD1_12 Pin=DD1-12
+Added Pin To Net: NetName=NetC8_1 Pin=DD1-17
+Added Pin To Net: NetName=NetDD1_18 Pin=DD1-18
+Added Pin To Net: NetName=NetDD1_19 Pin=DD1-19
+Added Pin To Net: NetName=GND Pin=DD1-20
+Added Member To Class: ClassName=CP_Scheme Member=Component C4 Capacitor
+Added Member To Class: ClassName=CP_Scheme Member=Component C5 Capacitor-E
+Added Member To Class: ClassName=CP_Scheme Member=Component DD1 MCP2200
+Added Member To Class: ClassName=CP_Scheme Member=Component R7 Resistor_10,0W

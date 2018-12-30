@@ -1,0 +1,79 @@
+Removed Member From Class: ClassName=Lab2_Scheme Member=C7
+Removed Member From Class: ClassName=Lab2_Scheme Member=C9
+Removed Member From Class: ClassName=Lab2_Scheme Member=C11
+Removed Member From Class: ClassName=Lab2_Scheme Member=DA3
+Removed Member From Class: ClassName=Lab2_Scheme Member=FU2
+Removed Member From Class: ClassName=Lab2_Scheme Member=L2
+Removed Member From Class: ClassName=Lab2_Scheme Member=R6
+Removed Member From Class: ClassName=Lab2_Scheme Member=R10
+Removed Member From Class: ClassName=Lab2_Scheme Member=R12
+Removed Member From Class: ClassName=Lab2_Scheme Member=R13
+Removed Member From Class: ClassName=Lab2_Scheme Member=VD3
+Removed Member From Class: ClassName=Lab2_Scheme Member=X3
+Removed Member From Class: ClassName=Lab2_Scheme Member=X4
+Added Component: Designator=HL1(LD0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Published"; Value = "03.12.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Индикатор единичный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Произв. номер"; Value = "SMLE13EC8TT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Прямое напряжение"; Value = "3.3В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Прямой ток"; Value = "0.5А"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Цвет"; Value = "Синий"; VariantName = "[No Variations]"
+Added Component: Designator=HL2(LD0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Published"; Value = "03.12.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Индикатор единичный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Произв. номер"; Value = "SMLE13EC8TT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Прямое напряжение"; Value = "3В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Прямой ток"; Value = "5мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Цвет"; Value = "Синий"; VariantName = "[No Variations]"
+Added Component: Designator=HL3(LD0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Published"; Value = "03.12.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Индикатор единичный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Произв. номер"; Value = "SMLE13EC8TT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Прямое напряжение"; Value = "3В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Прямой ток"; Value = "5мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Цвет"; Value = "Зелёный"; VariantName = "[No Variations]"
+Added Component: Designator=HL4(LD0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Published"; Value = "03.12.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Индикатор единичный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Произв. номер"; Value = "SMLE13EC8TT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Прямое напряжение"; Value = "3.3В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Прямой ток"; Value = "0.5А"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Цвет"; Value = "Синий"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetHL1_1 Pin=HL1-1
+Added Pin To Net: NetName=GND Pin=HL1-2
+Added Pin To Net: NetName=NetHL2_1 Pin=HL2-1
+Added Pin To Net: NetName=NetDD1_5 Pin=HL2-2
+Added Pin To Net: NetName=NetHL3_1 Pin=HL3-1
+Added Pin To Net: NetName=NetDD1_6 Pin=HL3-2
+Added Pin To Net: NetName=NetHL4_1 Pin=HL4-1
+Added Pin To Net: NetName=GND Pin=HL4-2
+Added Member To Class: ClassName=Lab2_Scheme Member=Component C1 Capacitor-E
+Added Member To Class: ClassName=Lab2_Scheme Member=Component C2 Capacitor
+Added Member To Class: ClassName=Lab2_Scheme Member=Component C3 Capacitor-E
+Added Member To Class: ClassName=CP_Scheme Member=Component C6 Capacitor-E
+Added Member To Class: ClassName=Lab2_Scheme Member=Component DA1 MC34063A
+Added Member To Class: ClassName=Lab2_Scheme Member=Component FU1 Fuse
+Added Member To Class: ClassName=Lab2_Scheme Member=Component HL1 LED_3V
+Added Member To Class: ClassName=CP_Scheme Member=Component HL2 LED_3V
+Added Member To Class: ClassName=CP_Scheme Member=Component HL3 LED_3V
+Added Member To Class: ClassName=CP_Scheme Member=Component HL4 LED_3V
+Added Member To Class: ClassName=Lab2_Scheme Member=Component L1 Coil
+Added Member To Class: ClassName=Lab2_Scheme Member=Component R1 Resistor_1,0W
+Added Member To Class: ClassName=Lab2_Scheme Member=Component R2 Resistor_0,25W
+Added Member To Class: ClassName=Lab2_Scheme Member=Component R3 Resistor_0,25W
+Added Member To Class: ClassName=Lab2_Scheme Member=Component R5 Resistor_10,0W
+Added Member To Class: ClassName=CP_Scheme Member=Component R6 Resistor_10,0W
+Added Member To Class: ClassName=CP_Scheme Member=Component R7 Resistor_1,0W
+Added Member To Class: ClassName=CP_Scheme Member=Component R8 Resistor_0,25W
+Added Member To Class: ClassName=Lab2_Scheme Member=Component VD1 Schottky
+Added Member To Class: ClassName=CP_Scheme Member=Component VD2 Diode
+Added Member To Class: ClassName=Lab2_Scheme Member=Component X1 Vin
+Added Member To Class: ClassName=Lab2_Scheme Member=Component X2 Vout

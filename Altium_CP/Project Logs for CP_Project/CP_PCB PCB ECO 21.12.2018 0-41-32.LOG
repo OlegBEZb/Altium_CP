@@ -1,0 +1,11 @@
+Added Component: Designator=ZQ1(HC-49SM-C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Published"; Value = "08.03.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "–езонатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "„астота"; Value = "12ћ√ц"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC4_2 Pin=ZQ1-1
+Added Pin To Net: NetName=NetC4_2 Pin=ZQ1-1
+Added Pin To Net: NetName=NetC5_2 Pin=ZQ1-3
+Added Pin To Net: NetName=NetC5_2 Pin=ZQ1-3
+Added Member To Class: ClassName=CP_Scheme Member=Component ZQ1 Crystal

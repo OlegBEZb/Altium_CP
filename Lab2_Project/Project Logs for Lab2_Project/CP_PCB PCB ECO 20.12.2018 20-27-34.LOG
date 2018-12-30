@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GND Pin=X1-2
+Removed Member From Class: ClassName=CP_Scheme Member=X1
+Change Component Footprint: Designator=X2 Old Footprint=WF-2 New Footprint=DJK-02-Series
+Added Component: Designator=X?(90136-1x05)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Create"; Value = "Litvinov"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GND"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "In"; Value = "TxD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Out"; Value = "RxD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U"; Value = "+3,3Â"; VariantName = "[No Variations]"
+Added Component: Designator=X?(DS1099)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Create"; Value = "DeathSpeaker"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GND"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "In"; Value = "D+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Out"; Value = "D-"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC5_1 Pin=X?-1
+Added Pin To Net: NetName=NetDD1_18 Pin=X?-1
+Added Pin To Net: NetName=NetDD1_10 Pin=X?-2
+Added Pin To Net: NetName=NetDD1_19 Pin=X?-2
+Added Pin To Net: NetName=GND Pin=X?-3
+Added Pin To Net: NetName=NetDD1_12 Pin=X?-3
+Added Pin To Net: NetName=GND Pin=X?-4
+Added Member To Class: ClassName=CP_Scheme Member=Component X? UART_2
+Added Member To Class: ClassName=CP_Scheme Member=Component X? USB

@@ -1,0 +1,33 @@
+PCAD Importer Log
+Project : MC34063A.LibPkg
+
+Section : C:\Users\Oleg\Documents\SourceTree\Altium\Altium_Lab2\Lab2_Project\MC34063A.lia
+    Section : PCB Library - MC34063A.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token MC34063 On Line 262
+            Warning - 1 : Skipping Token attachedSymbol On Line 369
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - MC34063A.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 106
+            Warning - 1 : Skipping Token layerContents On Line 161
+            Warning - 1 : Skipping Token layerContents On Line 216
+            Warning - 1 : Skipping Token layerContents On Line 222
+            Warning - 1 : Skipping Token multiLayer On Line 234
+            Warning - 1 : Skipping Token layerContents On Line 244
+            Warning - 1 : Skipping Token layerContents On Line 248
+            Warning - 1 : Skipping Token layerContents On Line 252
+        EndSection
+
+        Section : Generating SCH Library - MC34063A.SchLib
+        EndSection
+    EndSection
+EndSection

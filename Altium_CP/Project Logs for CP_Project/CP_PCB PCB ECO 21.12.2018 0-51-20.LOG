@@ -1,0 +1,8 @@
+Added Component: Designator=VS1(SOT95P237X112-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR6_2 Pin=VS1-1
+Added Pin To Net: NetName=NetC6_1 Pin=VS1-2
+Added Pin To Net: NetName=GND Pin=VS1-3
+Added Member To Class: ClassName=CP_Scheme Member=Component VS1 tiristor
+Added Room: Name=Lab2_Scheme

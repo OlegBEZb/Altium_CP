@@ -1,0 +1,78 @@
+Removed Pin From Net: NetName=NetC3_1 Pin=FP1-2
+Removed Pin From Net: NetName=NetC4_1 Pin=FU1-1
+Removed Pin From Net: NetName=NetC8_1 Pin=VD4-1
+Removed Member From Class: ClassName=CP_Scheme Member=FP1
+Change Component Designator: OldDesignator=C6 NewDesignator=C7
+Change Component Designator: OldDesignator=C7 NewDesignator=C6
+Change component parameters: Designator = "FU1"; Footprint = "F1812"; UniqueID = "\IAMXDARI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Type"; Value = "Вставка плавкая"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1.3A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1"; Footprint = "МДГ-2"; UniqueID = "\VHYKBRSW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Application Category"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance"; Value = "1.2ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ОАО "МСТАТОР""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "КИВ18-100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "20.05.2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Q"; Value = "20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "185mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "КВШУ.670114.001 ТУ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Дроссель"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "40мкГн"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Working Temperature Max"; Value = "+85°С"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Working Temperature Min"; Value = "-60°С"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1"; Footprint = "C0805"; UniqueID = "\GFMOPGJG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "14 х 50В"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "C0805"; UniqueID = "\NLQCXYEH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "14 х 50В"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4"; Footprint = "C0805"; UniqueID = "\RKTGVUIW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100 х 50В"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "C1206"; UniqueID = "\NIQOTDCG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Published"; Value = "20.08.2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Олег Литвинов"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ёмкость"; Value = "100мк х 50В"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "R0805"; UniqueID = "\WASGKBEJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ёмкость"; Value = "400 х 50В"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7"; Footprint = "C1206"; UniqueID = "\QMRUUQEY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Published"; Value = "20.08.2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Олег Литвинов"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ёмкость"; Value = "10 х 50В"; VariantName = "[No Variations]"
+Added Component: Designator=FU2(F1812)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "Вставка плавкая"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100мA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC4_1 Pin=C7-1
+Added Pin To Net: NetName=NetC3_1 Pin=FU1-2
+Added Pin To Net: NetName=NetC8_1 Pin=FU2-1
+Added Pin To Net: NetName=NetC4_1 Pin=L1-2
+Added Pin To Net: NetName=NetC4_1 Pin=R5-2
+Added Pin To Net: NetName=NetC4_1 Pin=R8-2
+Added Pin To Net: NetName=NetFU1_1 Pin=FU1-1
+Added Pin To Net: NetName=NetFU1_1 Pin=X2-1
+Added Net: Name=NetFU1_1
+Added Pin To Net: NetName=NetFU2_2 Pin=FU2-2
+Added Pin To Net: NetName=NetFU2_2 Pin=VD4-1
+Added Net: Name=NetFU2_2
+Added Member To Class: ClassName=CP_Scheme Member=Component DA2 LM3940
+Added Member To Class: ClassName=CP_Scheme Member=Component FU2 Fuse
+Added Member To Class: ClassName=CP_Scheme Member=Component VS1 tiristor
+Added Member To Class: ClassName=CP_Scheme Member=Component X1 USB
+Added Room: Name=CP_Scheme

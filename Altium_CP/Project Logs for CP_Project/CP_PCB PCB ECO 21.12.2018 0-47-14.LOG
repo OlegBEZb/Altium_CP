@@ -1,0 +1,14 @@
+Added Component: Designator=X5(90136-1x05)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Create"; Value = "Litvinov"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GND"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "In"; Value = "TxD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Out"; Value = "RxD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U"; Value = "+3,3Â"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC11_1 Pin=X5-1
+Added Pin To Net: NetName=NetDD1_10 Pin=X5-2
+Added Pin To Net: NetName=NetDD1_12 Pin=X5-3
+Added Pin To Net: NetName=GND Pin=X5-4
+Added Member To Class: ClassName=CP_Scheme Member=Component X5 UART_2
+Added Room: Name=CP_Scheme
+Added Room: Name=Lab2_Scheme

@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=NetHL3_1 Pin=R6-1
+Removed Pin From Net: NetName=NetDD1_10 Pin=X?-2
+Removed Pin From Net: NetName=NetDD1_12 Pin=X?-3
+Removed Pin From Net: NetName=GND Pin=X?-4
+Removed Member From Class: ClassName=CP_Scheme Member=C?
+Change Component Designator: OldDesignator=C4 NewDesignator=C7
+Change Component Designator: OldDesignator=C5 NewDesignator=C8
+Change Component Designator: OldDesignator=C7 NewDesignator=C1
+Change Component Designator: OldDesignator=C8 NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=R6 NewDesignator=R5
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=VD? NewDesignator=VD2
+Change Component Designator: OldDesignator=VD? NewDesignator=VD3
+Change Component Designator: OldDesignator=X? NewDesignator=X1
+Change Component Designator: OldDesignator=X? NewDesignator=X2
+Added Pin To Net: NetName=NetHL3_1 Pin=R7-1
+Added Pin To Net: NetName=NetDD1_18 Pin=X2-1
+Added Pin To Net: NetName=NetDD1_19 Pin=X2-2
+Added Pin To Net: NetName=GND Pin=X2-3
+Change Net Name : Old Net Name=NetC4_1 New Net Name=NetC6_1
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC5_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=R2-1
+Added Pin To Net: NetName=NetC3_1 Pin=VD2-2
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetDA1_1 Pin=R2-2
+Added Net: Name=NetDA1_1
+Added Pin To Net: NetName=NetDA1_2 Pin=L1-1
+Added Pin To Net: NetName=NetDA1_2 Pin=VD3-2
+Added Net: Name=NetDA1_2
+Added Pin To Net: NetName=NetDA1_5 Pin=R3-2
+Added Net: Name=NetDA1_5
+Added Pin To Net: NetName=NetFP1_1 Pin=X1-1
+Added Net: Name=NetFP1_1
+Added Pin To Net: NetName=NetHL1_1 Pin=R5-1
+Added Net: Name=NetHL1_1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=VD2-1
+Added Net: Name=NetR1_2
+Added Member To Class: ClassName=CP_Scheme Member=Component C3 Capacitor-E
+Added Member To Class: ClassName=CP_Scheme Member=Component C7 Capacitor
+Added Member To Class: ClassName=CP_Scheme Member=Component C8 Capacitor
+Added Member To Class: ClassName=CP_Scheme Member=Component R2 Resistor_1,0W
+Added Member To Class: ClassName=CP_Scheme Member=Component R3 Resistor_0,25W
+Added Member To Class: ClassName=CP_Scheme Member=Component R7 Resistor_10,0W
+Added Member To Class: ClassName=CP_Scheme Member=Component VD3 Schottky
+Added Member To Class: ClassName=CP_Scheme Member=Component X2 USB

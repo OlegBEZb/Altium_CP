@@ -1,0 +1,14 @@
+Added Member To Class: ClassName=CP_Scheme Member=Component C1 Capacitor
+Added Member To Class: ClassName=CP_Scheme Member=Component C2 Capacitor
+Added Member To Class: ClassName=CP_Scheme Member=Component C3 Capacitor-E
+Added Member To Class: ClassName=CP_Scheme Member=Component DA1 MC34063A
+Added Member To Class: ClassName=CP_Scheme Member=Component FU1 Fuse
+Added Member To Class: ClassName=CP_Scheme Member=Component HL1 LED_3V
+Added Member To Class: ClassName=CP_Scheme Member=Component L1 Coil
+Added Member To Class: ClassName=CP_Scheme Member=Component R1 Resistor_10,0W
+Added Member To Class: ClassName=CP_Scheme Member=Component R2 Resistor_1,0W
+Added Member To Class: ClassName=CP_Scheme Member=Component R3 Resistor_0,25W
+Added Member To Class: ClassName=CP_Scheme Member=Component R5 Resistor_0,05W
+Added Member To Class: ClassName=CP_Scheme Member=Component VD1 Diode
+Added Member To Class: ClassName=CP_Scheme Member=Component X1 Vin
+Added Member To Class: ClassName=CP_Scheme Member=Component X2 USB

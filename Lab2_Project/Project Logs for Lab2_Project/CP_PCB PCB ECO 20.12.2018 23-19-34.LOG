@@ -1,0 +1,17 @@
+Added Component: Designator=DA1(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetDA1_1 Pin=DA1-1
+Added Pin To Net: NetName=NetDA1_2 Pin=DA1-2
+Added Pin To Net: NetName=NetC4_2 Pin=DA1-3
+Added Pin To Net: NetName=GND Pin=DA1-4
+Added Pin To Net: NetName=NetDA1_5 Pin=DA1-5
+Added Pin To Net: NetName=NetC3_1 Pin=DA1-6
+Added Pin To Net: NetName=NetDA1_1 Pin=DA1-7
+Added Pin To Net: NetName=NetDA1_1 Pin=DA1-8
+Added Member To Class: ClassName=CP_Scheme Member=Component C1 Capacitor
+Added Member To Class: ClassName=CP_Scheme Member=Component C2 Capacitor
+Added Member To Class: ClassName=CP_Scheme Member=Component C4 Capacitor
+Added Member To Class: ClassName=CP_Scheme Member=Component DA1 MC34063A
+Added Member To Class: ClassName=CP_Scheme Member=Component L1 Coil
+Added Member To Class: ClassName=CP_Scheme Member=Component R1 Resistor_10,0W
+Added Member To Class: ClassName=CP_Scheme Member=Component R5 Resistor_0,05W

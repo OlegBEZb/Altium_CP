@@ -1,0 +1,164 @@
+Added Component: Designator=C1(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ёмкость"; Value = "239"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "50В"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Published"; Value = "20.08.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Олег Литвинов"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ёмкость"; Value = "100мк"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "50В"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Published"; Value = "20.08.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Олег Литвинов"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ёмкость"; Value = "100мк"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "50В"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470н"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50В"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33мк"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50В"; VariantName = "[No Variations]"
+Added Component: Designator=C6(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50В"; VariantName = "[No Variations]"
+Added Component: Designator=C7(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50В"; VariantName = "[No Variations]"
+Added Component: Designator=C8(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50В"; VariantName = "[No Variations]"
+Added Component: Designator=L1(МДГ-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Application Category"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance"; Value = "1.2ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ОАО "МСТАТОР""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "КИВ18-100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "20.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Q"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "185mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "КВШУ.670114.001 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Дроссель"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "40мк"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Temperature Max"; Value = "+85°С"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Temperature Min"; Value = "-60°С"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Сопротивление"; Value = "180"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.125"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Сопротивление"; Value = "30"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5к"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Сопротивление"; Value = "470"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Сопротивление"; Value = "470"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1К"; VariantName = "[No Variations]"
+Added Component: Designator=VD1(DO-214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "Диод"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Максимальное обратное напряжение"; Value = "40В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Прямой ток"; Value = "1 А"; VariantName = "[No Variations]"
+Added Component: Designator=X1(CWF-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Create"; Value = "DeathSpeaker"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GND"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U"; Value = "+12В"; VariantName = "[No Variations]"
+Added Component: Designator=X2(WF-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Create"; Value = "DeathSpeaker"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GND"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "In"; Value = "D+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Out"; Value = "D-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U"; Value = "+(5-9)В"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=NetDA1_7 Pin=L1-1
+Added Pin To Net: NetName=NetDA1_1 Pin=L1-2
+Added Pin To Net: NetName=NetDA1_7 Pin=R1-1
+Added Pin To Net: NetName=NetDA1_8 Pin=R1-2
+Added Pin To Net: NetName=NetDA1_7 Pin=R2-2
+Added Pin To Net: NetName=NetHL1_1 Pin=R3-1
+Added Pin To Net: NetName=NetC3_1 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=NetDA1_5 Pin=R5-2
+Added Pin To Net: NetName=NetDA1_1 Pin=VD1-1
+Added Pin To Net: NetName=NetC3_1 Pin=VD1-2
+Added Pin To Net: NetName=NetFU1_1 Pin=X1-1
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=GND Pin=X2-2
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R2-1
+Added Pin To Net: NetName=NetC2_1 Pin=X2-1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=C6-1
+Added Pin To Net: NetName=NetC4_2 Pin=R6-2
+Added Pin To Net: NetName=NetC4_2 Pin=R7-2
+Added Pin To Net: NetName=NetC4_2 Pin=R8-2
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetDD1_4 Pin=R8-1
+Added Net: Name=NetDD1_4
+Added Net: Name=NetDD1_5
+Added Net: Name=NetDD1_6
+Added Net: Name=NetDD1_10
+Added Net: Name=NetDD1_12
+Added Net: Name=NetDD1_18
+Added Net: Name=NetDD1_19
+Added Net: Name=NetFU2_2
+Added Pin To Net: NetName=NetHL2_1 Pin=R7-1
+Added Net: Name=NetHL2_1
+Added Pin To Net: NetName=NetHL3_1 Pin=R6-1
+Added Net: Name=NetHL3_1
+Added Class: Name=CP_Scheme
+Added Room: Name=CP_Scheme

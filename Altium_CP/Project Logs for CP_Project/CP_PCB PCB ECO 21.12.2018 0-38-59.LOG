@@ -1,0 +1,38 @@
+Removed Member From Class: ClassName=Lab2_Scheme Member=C7
+Removed Member From Class: ClassName=Lab2_Scheme Member=C9
+Removed Member From Class: ClassName=Lab2_Scheme Member=C11
+Removed Member From Class: ClassName=Lab2_Scheme Member=DA3
+Removed Member From Class: ClassName=Lab2_Scheme Member=FU2
+Removed Member From Class: ClassName=CP_Scheme Member=HL1
+Removed Member From Class: ClassName=Lab2_Scheme Member=L2
+Removed Member From Class: ClassName=Lab2_Scheme Member=R6
+Removed Member From Class: ClassName=Lab2_Scheme Member=R10
+Removed Member From Class: ClassName=Lab2_Scheme Member=R12
+Removed Member From Class: ClassName=Lab2_Scheme Member=R13
+Removed Member From Class: ClassName=Lab2_Scheme Member=VD3
+Removed Member From Class: ClassName=Lab2_Scheme Member=X3
+Removed Member From Class: ClassName=Lab2_Scheme Member=X4
+Change Component Footprint: Designator=VD2 Old Footprint=DO-214AC New Footprint=SOD-123
+Added Member To Class: ClassName=Lab2_Scheme Member=Component C1 Capacitor-E
+Added Member To Class: ClassName=Lab2_Scheme Member=Component C2 Capacitor
+Added Member To Class: ClassName=Lab2_Scheme Member=Component C3 Capacitor-E
+Added Member To Class: ClassName=CP_Scheme Member=Component C4 Capacitor
+Added Member To Class: ClassName=CP_Scheme Member=Component C5 Capacitor
+Added Member To Class: ClassName=CP_Scheme Member=Component C6 Capacitor-E
+Added Member To Class: ClassName=Lab2_Scheme Member=Component DA1 MC34063A
+Added Member To Class: ClassName=CP_Scheme Member=Component DA2 MC34063A
+Added Member To Class: ClassName=Lab2_Scheme Member=Component FU1 Fuse
+Added Member To Class: ClassName=Lab2_Scheme Member=Component L1 Coil
+Added Member To Class: ClassName=Lab2_Scheme Member=Component R1 Resistor_1,0W
+Added Member To Class: ClassName=Lab2_Scheme Member=Component R2 Resistor_0,25W
+Added Member To Class: ClassName=Lab2_Scheme Member=Component R3 Resistor_0,25W
+Added Member To Class: ClassName=Lab2_Scheme Member=Component R5 Resistor_10,0W
+Added Member To Class: ClassName=CP_Scheme Member=Component R6 Resistor_10,0W
+Added Member To Class: ClassName=CP_Scheme Member=Component R7 Resistor_1,0W
+Added Member To Class: ClassName=CP_Scheme Member=Component R8 Resistor_0,25W
+Added Member To Class: ClassName=Lab2_Scheme Member=Component VD1 Schottky
+Added Member To Class: ClassName=CP_Scheme Member=Component VD2 Diode
+Added Member To Class: ClassName=Lab2_Scheme Member=Component X1 Vin
+Added Member To Class: ClassName=Lab2_Scheme Member=Component X2 Vout
+Added Room: Name=CP_Scheme
+Added Room: Name=Lab2_Scheme

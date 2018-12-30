@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=NetDA?_8 Pin=R?-2
+Change Component Comment : Designator=R? Old Comment=Resistor_0,05W New Comment=Resistor_0,25W
+Change component parameters: Designator = "R?"; UniqueID = "\BFIQQTKQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Сопротивление"; Value = "0.125"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDA?_8 Pin=R?-2
+Added Pin To Net: NetName=5-9 В Pin=DA?-6
+Added Pin To Net: NetName=5-9 В Pin=R?-1
+Added Pin To Net: NetName=5-9 В Pin=R?-1
+Added Net: Name=5-9 В
+Added Pin To Net: NetName=NetDA?_1 Pin=DA?-1
+Added Pin To Net: NetName=NetDA?_1 Pin=L?-2
+Added Net: Name=NetDA?_1
+Added Pin To Net: NetName=NetDA?_5 Pin=DA?-5
+Added Pin To Net: NetName=NetDA?_5 Pin=R?-2
+Added Net: Name=NetDA?_5
+Added Pin To Net: NetName=NetDA?_7 Pin=DA?-7
+Added Pin To Net: NetName=NetDA?_7 Pin=L?-1
+Added Pin To Net: NetName=NetDA?_7 Pin=R?-1
+Added Pin To Net: NetName=NetDA?_7 Pin=R?-2
+Added Net: Name=NetDA?_7
+Added Member To Class: ClassName=Lab2_Scheme Member=Component R? Resistor_0,25W
+Added Member To Class: ClassName=Lab2_Scheme Member=Component R? Resistor_0,25W
+Added Member To Class: ClassName=Lab2_Scheme Member=Component R? Resistor_20,0W

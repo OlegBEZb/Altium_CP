@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=X? NewDesignator=X1
+Change Component Designator: OldDesignator=X? NewDesignator=X2
+Added Component: Designator=R5(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Сопротивление"; Value = "30"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetHL1_1 Pin=R5-1
+Added Pin To Net: NetName=NetC3_1 Pin=R5-2
+Added Member To Class: ClassName=Lab2_Scheme Member=Component R5 Resistor_10,0W
+Added Member To Class: ClassName=Lab2_Scheme Member=Component X2 Vout
+Added Room: Name=Lab2_Scheme

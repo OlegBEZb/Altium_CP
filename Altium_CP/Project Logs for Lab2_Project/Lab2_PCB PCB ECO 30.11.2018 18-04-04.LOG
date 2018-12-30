@@ -1,0 +1,60 @@
+Added Component: Designator=DA?(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=FU1(F1812)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "Вставка плавкая"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.5A"; VariantName = "[No Variations]"
+Added Component: Designator=HL1(LD0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Published"; Value = "03.12.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Индикатор единичный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Произв. номер"; Value = "SMLE13EC8TT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Прямое напряжение"; Value = "3В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Прямой ток"; Value = "5мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Цвет"; Value = "Синий"; VariantName = "[No Variations]"
+Added Component: Designator=L?(КИВ-18)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Application Category"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance"; Value = "1.2ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ОАО "МСТАТОР""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "КИВ18-100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "20.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Q"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "185mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "КВШУ.670114.001 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Дроссель"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Temperature Max"; Value = "+85°С"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Temperature Min"; Value = "-60°С"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Сопротивление"; Value = "470"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Сопротивление"; Value = "470"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Сопротивление"; Value = "180"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDA?_8 Pin=DA?-8
+Added Pin To Net: NetName=NetDA?_8 Pin=R?-2
+Added Net: Name=NetDA?_8
+Added Pin To Net: NetName=NetL?_2 Pin=L?-2
+Added Pin To Net: NetName=NetL?_2 Pin=R?-1
+Added Net: Name=NetL?_2
+Added Member To Class: ClassName=Lab2_Scheme Member=Component C1 Capacitor
+Added Member To Class: ClassName=Lab2_Scheme Member=Component C2 Capacitor
+Added Member To Class: ClassName=Lab2_Scheme Member=Component DA? MC34063A
+Added Member To Class: ClassName=Lab2_Scheme Member=Component FU1 Fuse
+Added Member To Class: ClassName=Lab2_Scheme Member=Component HL1 LED_3V
+Added Member To Class: ClassName=Lab2_Scheme Member=Component L? Coil
+Added Member To Class: ClassName=Lab2_Scheme Member=Component R1 Resistor_0,05W
+Added Member To Class: ClassName=Lab2_Scheme Member=Component R2 Resistor_0,05W
+Added Member To Class: ClassName=Lab2_Scheme Member=Component R? Resistor_0,05W
+Added Room: Name=Lab2_Scheme

@@ -1,0 +1,72 @@
+Removed Pin From Net: NetName=NetDA1_5 Pin=DA1-5
+Removed Pin From Net: NetName=NetDA1_5 Pin=R3-2
+Removed Pin From Net: NetName=NetHL1_1 Pin=R5-1
+Removed Pin From Net: NetName=NetHL2_1 Pin=R6-1
+Removed Pin From Net: NetName=NetHL3_1 Pin=R7-1
+Removed Member From Class: ClassName=CP_Scheme Member=DA1
+Removed Member From Class: ClassName=CP_Scheme Member=FU1
+Removed Member From Class: ClassName=CP_Scheme Member=X1
+Change Component Designator: OldDesignator=C1 NewDesignator=C4
+Change Component Designator: OldDesignator=C2 NewDesignator=C5
+Change Component Designator: OldDesignator=C3 NewDesignator=C6
+Change Component Designator: OldDesignator=C4 NewDesignator=C7
+Change Component Designator: OldDesignator=C5 NewDesignator=C8
+Change Component Designator: OldDesignator=C6 NewDesignator=C9
+Change Component Designator: OldDesignator=C7 NewDesignator=C10
+Change Component Designator: OldDesignator=C8 NewDesignator=C11
+Change Component Designator: OldDesignator=DA1 NewDesignator=DA2
+Change Component Designator: OldDesignator=DA2 NewDesignator=DA3
+Change Component Designator: OldDesignator=FU1 NewDesignator=FU2
+Change Component Designator: OldDesignator=L1 NewDesignator=L2
+Change Component Designator: OldDesignator=R1 NewDesignator=R6
+Change Component Designator: OldDesignator=R2 NewDesignator=R7
+Change Component Designator: OldDesignator=R3 NewDesignator=R8
+Change Component Designator: OldDesignator=R5 NewDesignator=R10
+Change Component Designator: OldDesignator=R6 NewDesignator=R11
+Change Component Designator: OldDesignator=R7 NewDesignator=R12
+Change Component Designator: OldDesignator=R8 NewDesignator=R13
+Change Component Designator: OldDesignator=VD1 NewDesignator=VD2
+Change Component Designator: OldDesignator=VD2 NewDesignator=VD3
+Change Component Designator: OldDesignator=VD3 NewDesignator=VD4
+Change Component Designator: OldDesignator=X1 NewDesignator=X3
+Change Component Designator: OldDesignator=X2 NewDesignator=X4
+Added Pin To Net: NetName=NetDA1_5 Pin=DA1-5
+Added Pin To Net: NetName=NetDA1_5 Pin=R3-2
+Added Pin To Net: NetName=NetHL1_1 Pin=R5-1
+Added Pin To Net: NetName=NetHL2_1 Pin=R10-1
+Added Pin To Net: NetName=NetHL3_1 Pin=R11-1
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetC6_1
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetC7_2
+Change Net Name : Old Net Name=NetC5_1 New Net Name=NetC8_1
+Change Net Name : Old Net Name=NetC6_1 New Net Name=NetC9_1
+Change Net Name : Old Net Name=NetC8_1 New Net Name=NetC11_1
+Change Net Name : Old Net Name=NetDA1_1 New Net Name=NetDA2_1
+Change Net Name : Old Net Name=NetDA1_2 New Net Name=NetDA2_2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=FU1-2
+Added Pin To Net: NetName=NetC3_1 Pin=R5-2
+Added Pin To Net: NetName=NetC3_1 Pin=VD1-2
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=DD1-2
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=DD1-3
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetDA1_1 Pin=DA1-1
+Added Pin To Net: NetName=NetDA1_1 Pin=L1-2
+Added Pin To Net: NetName=NetDA1_1 Pin=VD1-1
+Added Net: Name=NetDA1_1
+Added Pin To Net: NetName=NetDA2_5 Pin=DA2-5
+Added Pin To Net: NetName=NetDA2_5 Pin=R8-2
+Added Net: Name=NetDA2_5
+Added Pin To Net: NetName=NetHL4_1 Pin=R12-1
+Added Net: Name=NetHL4_1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=VD3-1
+Added Net: Name=NetR6_2
+Added Member To Class: ClassName=CP_Scheme Member=Component DA3 LM3940
+Added Member To Class: ClassName=CP_Scheme Member=Component FU2 Fuse
+Added Member To Class: ClassName=CP_Scheme Member=Component X3 Vin
+Added Room: Name=CP_Scheme
+Added Room: Name=Lab2_Scheme
